@@ -1,0 +1,10 @@
+$font: 'Space Grotesk';
+
+body {
+    font-family: $font, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif !important;
+    font-weight: 300;
+}
+
+p, h1, h2, h3, h4, h5, input, textarea, button, form {
+    font-family: $font !important;
+}
